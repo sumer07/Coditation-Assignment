@@ -1,7 +1,5 @@
 
-
-
-
+#Coditation Assignment
 
 import java.util.Scanner;
 class Operation {
