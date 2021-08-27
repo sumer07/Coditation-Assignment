@@ -1,10 +1,14 @@
 
 #Coditation Assignment
 
+
 import java.util.Scanner;
+
 class Operation {
+    
     public void LiveorDead(int[][] board) {
         
+    
     int [][] board2 = new int[board.length][board[0].length];  
         
            
